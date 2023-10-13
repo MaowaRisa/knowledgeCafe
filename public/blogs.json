@@ -7,7 +7,7 @@
       "author": "John Doe",
       "posted_date": "October 13, 2023",
       "reading_time": 8,
-      "hashtags": ["#adventure", "#travel", "#exploration"]
+      "hashtags": ["adventure", "travel", "exploration"]
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "author": "Jane Smith",
       "posted_date": "October 12, 2023",
       "reading_time": 10,
-      "hashtags": ["#food", "#recipes", "#cooking"]
+      "hashtags": ["food", "recipes", "cooking"]
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "author": "David Johnson",
       "posted_date": "October 11, 2023",
       "reading_time": 6,
-      "hashtags": ["#technology", "#innovation", "#gadgets"]
+      "hashtags": ["technology", "innovation", "gadgets"]
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@
       "author": "Emily Brown",
       "posted_date": "October 10, 2023",
       "reading_time": 7,
-      "hashtags": ["#health", "#wellness", "#fitness"]
+      "hashtags": ["health", "wellness", "fitness"]
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@
       "author": "Michael Williams",
       "posted_date": "October 9, 2023",
       "reading_time": 5,
-      "hashtags": ["#art", "#creativity", "#design"]
+      "hashtags": ["art", "creativity", "design"]
     }
   ]
   
