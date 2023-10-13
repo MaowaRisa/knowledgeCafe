@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_img": "https://i.ibb.co/ckMhjzg/tp219-d3-presentation-01-445.jpg",
+      "title": "The Adventure Begins",
+      "author_img": "https://i.ibb.co/JtCFjRL/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+      "author": "John Doe",
+      "posted_date": "October 13, 2023",
+      "reading_time": 8,
+      "hashtags": ["#adventure", "#travel", "#exploration"]
+    },
+    {
+      "id": 2,
+      "cover_img": "https://i.ibb.co/KL9gjgF/5164001.jpg",
+      "title": "Cooking Delights",
+      "author_img": "https://i.ibb.co/kmDxNKC/darius-bashar-rc-HHrmn6u-K8-unsplash.jpg",
+      "author": "Jane Smith",
+      "posted_date": "October 12, 2023",
+      "reading_time": 10,
+      "hashtags": ["#food", "#recipes", "#cooking"]
+    },
+    {
+      "id": 3,
+      "cover_img": "https://i.ibb.co/kxTmPkn/88255.jpg",
+      "title": "Tech Trends 2023",
+      "author_img": "https://i.ibb.co/JRdydJN/austin-distel-97-Hf-Vpy-NR1-M-unsplash.jpg",
+      "author": "David Johnson",
+      "posted_date": "October 11, 2023",
+      "reading_time": 6,
+      "hashtags": ["#technology", "#innovation", "#gadgets"]
+    },
+    {
+      "id": 4,
+      "cover_img": "https://i.ibb.co/Nt9Q5gh/sarah-dorweiler-x2-Tmfd1-Sg-A-unsplash.jpg",
+      "title": "Health and Wellness",
+      "author_img": "https://i.ibb.co/JRdydJN/austin-distel-97-Hf-Vpy-NR1-M-unsplash.jpg",
+      "author": "Emily Brown",
+      "posted_date": "October 10, 2023",
+      "reading_time": 7,
+      "hashtags": ["#health", "#wellness", "#fitness"]
+    },
+    {
+      "id": 5,
+      "cover_img": "https://i.ibb.co/DRn8kh5/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+      "title": "Artistic Creations",
+      "author_img": "https://i.ibb.co/kmDxNKC/darius-bashar-rc-HHrmn6u-K8-unsplash.jpg",
+      "author": "Michael Williams",
+      "posted_date": "October 9, 2023",
+      "reading_time": 5,
+      "hashtags": ["#art", "#creativity", "#design"]
+    }
+  ]
+  
